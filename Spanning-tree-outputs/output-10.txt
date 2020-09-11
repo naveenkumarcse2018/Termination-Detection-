@@ -1,0 +1,248 @@
+Socket Created Successfully for process 2 
+Socket Created Successfully for process 1 
+Socket Created Successfully for process 3 
+Socket Created Successfully for process 4 
+Socket Created Successfully for process 5 
+Socket Created Successfully for process 6 
+Socket Created Successfully for process 7 
+Socket Created Successfully for process 8 
+Socket Created Successfully for process 9 
+Socket Created Successfully for process 10 
+
+Cell 3 turns red at 14:12:58
+
+Cell 4 turns red at 14:12:58
+
+Cell 5 turns red at 14:12:58
+
+Cell 3 sends red  message to Cell 1 at 14:12:58
+
+Cell 1 received red message from Cell 3 at 14:12:58
+
+Cell 1 turns red at 14:12:58
+
+Cell 1 sends red  message to Cell 4 at 14:12:58
+
+Cell 4 sends red  message to Cell 7 at 14:13:00
+
+Cell 7 received red message from Cell 4 at 14:13:00
+
+Cell 5 sends red  message to Cell 10 at 14:13:00
+
+Cell 7 turns red at 14:13:00
+
+
+Cell 10 received red message from Cell 5 at 14:13:00
+
+Cell 10 turns red at 14:13:00
+
+Cell 10 sends red  message to Cell 8 at 14:13:00
+
+Cell 6 turns blue at 14:13:00
+
+Cell 10 turns blue at 14:13:00
+
+Cell 2 turns blue at 14:13:00
+
+Cell 4 turns blue at 14:13:00
+
+Cell 8 received red message from Cell 10 at 14:13:00
+
+Cell 8 turns red at 14:13:00
+
+Cell 8 sends red  message to Cell 9 at 14:13:02
+
+Cell 9 received red message from Cell 8 at 14:13:02
+
+Cell 9 turns red at 14:13:02
+
+Cell 9 sends red  message to Cell 6 at 14:13:02
+
+Cell 6 received red message from Cell 9 at 14:13:02
+
+Cell 6 turns red at 14:13:02
+
+Cell 6 sends red  message to Cell 9 at 14:13:02
+
+Cell 7 sends red  message to Cell 2 at 14:13:03
+
+Cell 2 received red message from Cell 7 at 14:13:03
+
+Cell 2 turns red at 14:13:03
+
+Cell 6 sends blue  message to Cell 5 at 14:13:06
+
+Cell 5 received blue message from Cell 6 at 14:13:06
+
+Cell 5 turns blue at 14:13:06
+
+Cell 2 sends red  message to Cell 3 at 14:13:07
+
+Cell 5 sends blue  message to Cell 10 at 14:13:07
+
+Cell 6 sends blue  message to Cell 9 at 14:13:08
+
+Cell 9 received blue message from Cell 6 at 14:13:08
+
+Cell 9 turns blue at 14:13:08
+
+Cell 9 sends black token  to Cell 5 at 14:13:08
+
+Cell 10 sends blue  message to Cell 5 at 14:13:08
+
+Cell 10 sends blue  message to Cell 8 at 14:13:08
+
+Cell 8 received blue message from Cell 10 at 14:13:08
+
+Cell 8 turns blue at 14:13:08
+
+Cell 8 sends black token  to Cell 4 at 14:13:08
+
+Cell 2 sends blue  message to Cell 3 at 14:13:08
+
+Cell 4 received black token from Cell 8 at 14:13:08
+
+Cell 4 sends black token  to Cell 2 at 14:13:08
+
+Cell 3 received blue message from Cell 2 at 14:13:08
+
+Cell 3 turns blue at 14:13:08
+
+Cell 2 received black token from Cell 4 at 14:13:08
+
+Cell 2 sends blue  message to Cell 7 at 14:13:10
+
+Cell 7 received blue message from Cell 2 at 14:13:10
+
+Cell 7 turns blue at 14:13:10
+
+Cell 7 sends black token  to Cell 3 at 14:13:10
+
+Cell 4 sends blue  message to Cell 1 at 14:13:10
+
+Cell 1 received blue message from Cell 4 at 14:13:10
+
+Cell 1 turns blue at 14:13:10
+
+Cell 4 sends blue  message to Cell 5 at 14:13:10
+
+Cell 4 sends blue  message to Cell 7 at 14:13:12
+
+Cell 10 received blue message from Cell 5 at 14:13:12
+
+Cell 10 turns blue at 14:13:12
+
+Cell 10 sends black token  to Cell 6 at 14:13:12
+
+Cell 7 received blue message from Cell 4 at 14:13:12
+
+Cell 6 received black token from Cell 10 at 14:13:12
+
+Cell 7 turns blue at 14:13:12
+
+Cell 6 sends black token  to Cell 3 at 14:13:12
+
+Cell 2 sends blue  message to Cell 7 at 14:13:13
+
+Cell 1 sends blue  message to Cell 3 at 14:13:13
+
+Cell 7 sends blue  message to Cell 2 at 14:13:13
+
+Cell 7 sends blue  message to Cell 4 at 14:13:14
+
+Cell 4 received blue message from Cell 7 at 14:13:14
+
+Cell 4 turns blue at 14:13:14
+
+Cell 5 sends blue  message to Cell 4 at 14:13:15
+
+Cell 3 sends blue  message to Cell 1 at 14:13:15
+
+Cell 3 sends blue  message to Cell 2 at 14:13:15
+
+Cell 3 received black token from Cell 7 at 14:13:15
+
+Cell 7 received blue message from Cell 2 at 14:13:15
+
+Cell 7 turns blue at 14:13:15
+
+Cell 7 sends blue  message to Cell 4 at 14:13:15
+
+Cell 1 sends blue  message to Cell 4 at 14:13:16
+
+Cell 1 received blue message from Cell 3 at 14:13:16
+
+Cell 1 turns blue at 14:13:16
+
+Cell 2 sends blue  message to Cell 3 at 14:13:17
+
+Cell 2 received blue message from Cell 7 at 14:13:17
+
+Cell 2 turns blue at 14:13:17
+
+Cell 1 sends blue  message to Cell 3 at 14:13:17
+
+Cell 4 sends blue  message to Cell 5 at 14:13:17
+
+Cell 2 sends blue  message to Cell 3 at 14:13:18
+
+Cell 5 sends blue  message to Cell 6 at 14:13:19
+
+Cell 6 received blue message from Cell 5 at 14:13:19
+
+Cell 6 turns blue at 14:13:19
+
+Cell 5 received black token from Cell 9 at 14:13:19
+
+Cell 5 sends black token  to Cell 2 at 14:13:19
+
+Cell 5 received blue message from Cell 10 at 14:13:19
+
+Cell 5 turns blue at 14:13:19
+
+Cell 3 sends blue  message to Cell 2 at 14:13:19
+
+Cell 2 sends blue  message to Cell 7 at 14:13:19
+
+Cell 3 sends blue  message to Cell 1 at 14:13:21
+
+Cell 5 sends blue  message to Cell 6 at 14:13:23
+
+Cell 3 received black token from Cell 6 at 14:13:23
+
+Cell 3 sends black token  to Cell 1 at 14:13:23
+
+Cell 3 received blue message from Cell 1 at 14:13:23
+
+Cell 3 turns blue at 14:13:23
+
+Cell 6 sends blue  message to Cell 9 at 14:13:24
+
+Cell 9 received blue message from Cell 6 at 14:13:24
+
+Cell 9 turns blue at 14:13:24
+
+Cell 5 sends blue  message to Cell 10 at 14:13:24
+
+Cell 2 received blue message from Cell 3 at 14:13:24
+
+Cell 2 turns blue at 14:13:24
+
+Cell 2 sends blue  message to Cell 3 at 14:13:24
+
+ Time taken by * Spanning-Tree Termination Detection * Algorithm is: 12.0019
+13 is number of messages sent to detect Termination
+
+Pid	color	isLeaf	hasToken	tokenColor	Parent Node
+1	blue	0	1		white		0	
+2	blue	0	0		white		1	
+3	blue	0	0		white		1	
+4	blue	0	0		white		2	
+5	blue	0	0		white		2	
+6	blue	0	0		white		3	
+7	blue	1	0		white		3	
+8	blue	1	0		white		4	
+9	blue	1	0		white		5	
+10	blue	1	0		white		6	
+
+
