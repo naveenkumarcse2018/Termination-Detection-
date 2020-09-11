@@ -1,0 +1,2238 @@
+Socket Created Successfully for process 3 
+Socket Created Successfully for process 1 
+Socket Created Successfully for process 2 
+Socket Created Successfully for process 4 
+Socket Created Successfully for process 5 
+Socket Created Successfully for process 6 
+Socket Created Successfully for process 7 
+Socket Created Successfully for process 8 
+Socket Created Successfully for process 10 
+Socket Created Successfully for process 9 
+Socket Created Successfully for process 11 
+Socket Created Successfully for process 12 
+Socket Created Successfully for process 13 
+Socket Created Successfully for process 14 
+Socket Created Successfully for process 16 
+Socket Created Successfully for process 15 
+Socket Created Successfully for process 18 
+Socket Created Successfully for process 17 
+Socket Created Successfully for process 19 
+Socket Created Successfully for process 20 
+Cell 18 turns red at 11:15:13
+
+Cell 13 turns red at 11:15:13
+
+Cell 20 turns red at 11:15:13
+
+Cell 18 sends red message to Cell 6 at 11:15:13
+
+Cell 13 sends red message to Cell 4 at 11:15:13
+
+Cell 13 sends red message to Cell 8 at 11:15:13
+
+Cell 20 sends red message to Cell 7 at 11:15:13
+
+Cell 6 receives red message from Cell 18 at 11:15:13
+
+Cell 6 turns  red at 11:15:13
+
+Cell 8 receives red message from Cell 13 at 11:15:13
+
+Cell 8 turns  red at 11:15:13
+
+Cell 6 sends red message to Cell 19 at 11:15:13
+
+Cell 8 sends red message to Cell 3 at 11:15:13
+
+Cell 9 turns blue at 11:15:13
+
+Cell 17 turns blue at 11:15:13
+
+Cell 4 turns blue at 11:15:13
+
+Cell 15 turns blue at 11:15:13
+
+Cell 16 turns blue at 11:15:13
+
+Cell 9 sends blue message to Cell 3 at 11:15:13
+
+Cell 9 sends blue message to Cell 7 at 11:15:13
+
+Cell 19 receives red message from Cell 6 at 11:15:13
+
+Cell 17 sends blue message to Cell 6 at 11:15:13
+
+Cell 19 turns  red at 11:15:13
+
+Cell 4 sends blue message to Cell 1 at 11:15:13
+
+Cell 3 receives red message from Cell 8 at 11:15:13
+
+Cell 3 turns  red at 11:15:13
+
+Cell 4 sends blue message to Cell 11 at 11:15:13
+
+Cell 19 sends red message to Cell 6 at 11:15:13
+
+Cell 4 sends blue message to Cell 12 at 11:15:13
+
+Cell 4 sends blue message to Cell 13 at 11:15:13
+
+Cell 11 receives blue message from Cell 4 at 11:15:13
+
+Cell 11 turns  blue at 11:15:13
+
+Cell 15 sends blue message to Cell 5 at 11:15:13
+
+Cell 12 receives blue message from Cell 4 at 11:15:13
+
+Cell 16 sends blue message to Cell 5 at 11:15:13
+
+Cell 12 turns  blue at 11:15:13
+
+Cell 11 sends blue message to Cell 4 at 11:15:13
+
+Cell 13 sends blue message to Cell 4 at 11:15:13
+
+Cell 12 sends blue message to Cell 4 at 11:15:13
+
+Cell 13 sends blue message to Cell 8 at 11:15:13
+
+Cell 8 sends blue message to Cell 3 at 11:15:13
+
+Cell 3 sends red message to Cell 10 at 11:15:14
+
+Cell 3 sends ack message to Cell 8 at 11:15:14
+
+Cell 3 receives blue message from Cell 8 at 11:15:14
+
+Cell 3 turns  blue at 11:15:14
+
+Cell 5 receives blue message from Cell 15 at 11:15:14
+
+Cell 5 turns  blue at 11:15:14
+
+Cell 1 receives blue message from Cell 4 at 11:15:14
+
+Cell 1 turns  blue at 11:15:14
+
+Cell 1 sends blue message to Cell 3 at 11:15:14
+
+Cell 5 sends blue message to Cell 14 at 11:15:14
+
+Cell 3 sends blue message to Cell 8 at 11:15:14
+
+Cell 6 sends blue message to Cell 2 at 11:15:14
+
+Cell 8 gets blue message from Cell 3
+
+Cell 1 sends blue message to Cell 4 at 11:15:14
+
+Cell 3 sends blue message to Cell 1 at 11:15:14
+
+Cell 2 receives blue message from Cell 6 at 11:15:14
+
+Cell 2 turns  blue at 11:15:14
+
+Cell 14 receives blue message from Cell 5 at 11:15:14
+
+Cell 14 turns  blue at 11:15:14
+
+Cell 1 sends blue message to Cell 2 at 11:15:14
+
+Cell 6 sends blue message to Cell 19 at 11:15:14
+
+Cell 14 sends blue message to Cell 5 at 11:15:14
+
+Cell 2 sends blue message to Cell 7 at 11:15:14
+
+Cell 8 sends blue message to Cell 13 at 11:15:14
+
+Cell 2 sends blue message to Cell 6 at 11:15:14
+
+Cell 1 receives blue message from Cell 3 at 11:15:14
+
+Cell 1 turns  blue at 11:15:14
+
+Cell 3 sends blue message to Cell 10 at 11:15:14
+
+Cell 6 sends blue message to Cell 17 at 11:15:14
+
+Cell 1 sends blue message to Cell 2 at 11:15:14
+
+Cell 2 sends blue message to Cell 5 at 11:15:14
+
+Cell 1 sends blue message to Cell 3 at 11:15:14
+
+Cell 17 receives blue message from Cell 6 at 11:15:14
+
+Cell 3 receives blue message from Cell 1 at 11:15:14
+
+Cell 17 turns  blue at 11:15:14
+
+Cell 2 receives blue message from Cell 1 at 11:15:14
+
+Cell 2 turns  blue at 11:15:14
+
+Cell 17 sends blue message to Cell 6 at 11:15:14
+
+Cell 3 turns  blue at 11:15:14
+
+Cell 2 sends blue message to Cell 5 at 11:15:14
+
+Cell 3 sends blue message to Cell 9 at 11:15:14
+
+Cell 3 sends blue message to Cell 8 at 11:15:14
+
+Cell 9 receives blue message from Cell 3 at 11:15:14
+
+Cell 9 turns  blue at 11:15:14
+
+Cell 3 sends blue message to Cell 1 at 11:15:14
+
+Cell 9 sends blue message to Cell 3 at 11:15:14
+
+Cell 9 sends blue message to Cell 7 at 11:15:14
+
+Cell 4 receives red message from Cell 13 at 11:15:15
+
+Cell 4 turns  red at 11:15:15
+
+Cell 4 sends red message to Cell 12 at 11:15:15
+
+Cell 4 sends ack message to Cell 13 at 11:15:15
+
+Cell 4 receives blue message from Cell 13 at 11:15:15
+
+Cell 4 turns  blue at 11:15:15
+
+Cell 4 sends blue message to Cell 13 at 11:15:15
+
+Cell 4 sends blue message to Cell 1 at 11:15:15
+
+Cell 10 receives blue message from Cell 3 at 11:15:15
+
+Cell 10 turns  blue at 11:15:15
+
+Cell 10 sends blue message to Cell 3 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 5 sends blue message to Cell 15 at 11:15:15
+
+Cell 16 receives blue message from Cell 5 at 11:15:15
+
+Cell 16 turns  blue at 11:15:15
+
+Cell 19 sends ack message to Cell 6 at 11:15:15
+
+Cell 16 sends blue message to Cell 5 at 11:15:15
+
+Cell 15 receives blue message from Cell 5 at 11:15:15
+
+Cell 15 turns  blue at 11:15:15
+
+Cell 5 receives blue message from Cell 16 at 11:15:15
+
+Cell 5 turns  blue at 11:15:15
+
+Cell 6 receives red message from Cell 19 at 11:15:15
+
+Cell 6 turns red at 11:15:15
+
+Cell 5 sends blue message to Cell 2 at 11:15:15
+
+Cell 6 sends red message to Cell 18 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 16 receives blue message from Cell 5 at 11:15:15
+
+Cell 16 turns  blue at 11:15:15
+
+Cell 6 sends blue message to Cell 2 at 11:15:15
+
+Cell 16 sends blue message to Cell 5 at 11:15:15
+
+Cell 2 sends blue message to Cell 6 at 11:15:15
+
+Cell 5 sends blue message to Cell 14 at 11:15:15
+
+Cell 6 sends blue message to Cell 19 at 11:15:15
+
+Cell 2 sends blue message to Cell 7 at 11:15:15
+
+Cell 5 receives blue message from Cell 14 at 11:15:15
+
+Cell 5 turns  blue at 11:15:15
+
+Cell 6 sends blue message to Cell 18 at 11:15:15
+
+Cell 5 sends blue message to Cell 15 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 16 receives blue message from Cell 5 at 11:15:15
+
+Cell 16 turns  blue at 11:15:15
+
+Cell 5 sends blue message to Cell 2 at 11:15:15
+
+Cell 3 receives blue message from Cell 1 at 11:15:15
+
+Cell 3 turns  blue at 11:15:15
+
+Cell 6 sends blue message to Cell 19 at 11:15:15
+
+Cell 3 sends blue message to Cell 9 at 11:15:15
+
+Cell 5 receives blue message from Cell 2 at 11:15:15
+
+Cell 5 turns  blue at 11:15:15
+
+Cell 9 receives blue message from Cell 3 at 11:15:15
+
+Cell 9 turns  blue at 11:15:15
+
+Cell 5 sends blue message to Cell 2 at 11:15:15
+
+Cell 9 sends blue message to Cell 7 at 11:15:15
+
+Cell 5 sends blue message to Cell 15 at 11:15:15
+
+Cell 9 sends blue message to Cell 3 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 5 receives blue message from Cell 2 at 11:15:15
+
+Cell 5 turns  blue at 11:15:15
+
+Cell 5 sends blue message to Cell 14 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 5 sends blue message to Cell 2 at 11:15:15
+
+Cell 5 sends blue message to Cell 15 at 11:15:15
+
+Cell 5 receives blue message from Cell 16 at 11:15:15
+
+Cell 5 turns  blue at 11:15:15
+
+Cell 5 sends blue message to Cell 14 at 11:15:15
+
+Cell 5 sends blue message to Cell 16 at 11:15:15
+
+Cell 5 sends blue message to Cell 2 at 11:15:15
+
+Cell 7 receives red message from Cell 20 at 11:15:16
+
+Cell 7 turns  red at 11:15:16
+
+Cell 4 sends blue message to Cell 11 at 11:15:16
+
+Cell 4 sends blue message to Cell 12 at 11:15:16
+
+Cell 11 receives blue message from Cell 4 at 11:15:16
+
+Cell 11 turns  blue at 11:15:16
+
+Cell 4 receives blue message from Cell 12 at 11:15:16
+
+Cell 4 turns  blue at 11:15:16
+
+Cell 13 gets blue message from Cell 8
+
+Cell 8 receives blue message from Cell 3 at 11:15:16
+
+Cell 8 turns  blue at 11:15:16
+
+Cell 13 sends blue message to Cell 8 at 11:15:16
+
+Cell 15 sends blue message to Cell 5 at 11:15:16
+
+Cell 8 sends blue message to Cell 3 at 11:15:16
+
+Cell 13 sends blue message to Cell 4 at 11:15:16
+
+Cell 1 sends blue message to Cell 4 at 11:15:16
+
+Cell 1 receives blue message from Cell 3 at 11:15:16
+
+Cell 1 turns  blue at 11:15:16
+
+Cell 13 gets blue message from Cell 4
+
+Cell 13 sends blue message to Cell 21 at 11:15:16
+
+Cell 18 receives red message from Cell 6 at 11:15:16
+
+Cell 18 turns red at 11:15:16
+
+Cell 1 sends blue message to Cell 2 at 11:15:16
+
+Cell 18 sends red message to Cell 6 at 11:15:16
+
+Cell 1 sends blue message to Cell 4 at 11:15:16
+
+Cell 18 sends blue message to Cell 6 at 11:15:16
+
+Cell 2 receives blue message from Cell 1 at 11:15:16
+
+Cell 2 turns  blue at 11:15:16
+
+Cell 2 sends blue message to Cell 5 at 11:15:16
+
+Cell 16 sends blue message to Cell 5 at 11:15:16
+
+Cell 2 sends blue message to Cell 6 at 11:15:16
+
+Cell 6 sends blue message to Cell 18 at 11:15:16
+
+Cell 3 sends blue message to Cell 8 at 11:15:16
+
+Cell 3 sends blue message to Cell 10 at 11:15:16
+
+Cell 10 receives blue message from Cell 3 at 11:15:16
+
+Cell 10 turns  blue at 11:15:16
+
+Cell 3 sends blue message to Cell 1 at 11:15:16
+
+Cell 3 receives blue message from Cell 9 at 11:15:16
+
+Cell 3 turns  blue at 11:15:16
+
+Cell 3 sends blue message to Cell 8 at 11:15:16
+
+Cell 3 sends blue message to Cell 10 at 11:15:16
+
+Cell 3 sends blue message to Cell 9 at 11:15:16
+
+Cell 9 receives blue message from Cell 3 at 11:15:16
+
+Cell 9 turns  blue at 11:15:16
+
+Cell 3 receives blue message from Cell 10 at 11:15:16
+
+Cell 3 turns  blue at 11:15:16
+
+Cell 3 sends blue message to Cell 8 at 11:15:16
+
+Cell 3 sends blue message to Cell 1 at 11:15:16
+
+Cell 3 sends blue message to Cell 9 at 11:15:16
+
+Cell 3 receives blue message from Cell 9 at 11:15:16
+
+Cell 5 receives blue message from Cell 16 at 11:15:16
+
+Cell 3 turns  blue at 11:15:16
+
+Cell 5 turns  blue at 11:15:16
+
+Cell 3 sends blue message to Cell 1 at 11:15:16
+
+Cell 5 sends blue message to Cell 15 at 11:15:16
+
+Cell 3 sends blue message to Cell 8 at 11:15:16
+
+Cell 5 sends blue message to Cell 14 at 11:15:16
+
+Cell 3 sends blue message to Cell 9 at 11:15:16
+
+Cell 5 sends blue message to Cell 16 at 11:15:16
+
+Cell 3 sends blue message to Cell 10 at 11:15:16
+
+Cell 5 receives blue message from Cell 15 at 11:15:16
+
+Cell 3 receives blue message from Cell 8 at 11:15:16
+
+Cell 5 turns  blue at 11:15:16
+
+Cell 3 turns  blue at 11:15:16
+
+Cell 5 sends blue message to Cell 15 at 11:15:16
+
+Cell 5 sends blue message to Cell 2 at 11:15:16
+
+Cell 5 sends blue message to Cell 16 at 11:15:16
+
+Cell 5 receives blue message from Cell 2 at 11:15:16
+
+Cell 5 turns  blue at 11:15:16
+
+Cell 5 sends blue message to Cell 14 at 11:15:16
+
+Cell 5 sends blue message to Cell 2 at 11:15:16
+
+Cell 5 sends blue message to Cell 16 at 11:15:16
+
+Cell 5 sends blue message to Cell 15 at 11:15:16
+
+Cell 7 sends red message to Cell 3 at 11:15:17
+
+Cell 7 sends ack message to Cell 20 at 11:15:17
+
+Cell 12 receives blue message from Cell 4 at 11:15:17
+
+Cell 12 turns  blue at 11:15:17
+
+Cell 7 receives blue message from Cell 2 at 11:15:17
+
+Cell 7 turns  blue at 11:15:17
+
+Cell 12 sends blue message to Cell 4 at 11:15:17
+
+Cell 7 sends blue message to Cell 3 at 11:15:17
+
+Cell 7 sends blue message to Cell 20 at 11:15:17
+
+Cell 11 sends blue message to Cell 4 at 11:15:17
+
+Cell 4 sends blue message to Cell 11 at 11:15:17
+
+Cell 4 sends blue message to Cell 12 at 11:15:17
+
+Cell 4 sends blue message to Cell 1 at 11:15:17
+
+Cell 12 receives blue message from Cell 4 at 11:15:17
+
+Cell 12 turns  blue at 11:15:17
+
+Cell 12 sends blue message to Cell 4 at 11:15:17
+
+Cell 4 receives blue message from Cell 1 at 11:15:17
+
+Cell 4 turns  blue at 11:15:17
+
+Cell 4 sends blue message to Cell 13 at 11:15:17
+
+Cell 8 receives blue message from Cell 3 at 11:15:17
+
+Cell 8 turns  blue at 11:15:17
+
+Cell 8 sends blue message to Cell 3 at 11:15:17
+
+Cell 14 receives blue message from Cell 5 at 11:15:17
+
+Cell 14 turns  blue at 11:15:17
+
+Cell 19 receives blue message from Cell 6 at 11:15:17
+
+Cell 19 turns  blue at 11:15:17
+
+Cell 14 sends blue message to Cell 5 at 11:15:17
+
+Cell 1 sends blue message to Cell 3 at 11:15:17
+
+Cell 14 receives blue message from Cell 5 at 11:15:17
+
+Cell 14 turns  blue at 11:15:17
+
+Cell 1 receives blue message from Cell 4 at 11:15:17
+
+Cell 1 turns  blue at 11:15:17
+
+Cell 14 sends blue message to Cell 5 at 11:15:17
+
+Cell 2 sends blue message to Cell 1 at 11:15:17
+
+Cell 6 sends blue message to Cell 17 at 11:15:17
+
+Cell 14 receives blue message from Cell 5 at 11:15:17
+
+Cell 14 turns  blue at 11:15:17
+
+Cell 6 sends blue message to Cell 2 at 11:15:17
+
+Cell 17 receives blue message from Cell 6 at 11:15:17
+
+Cell 17 turns  blue at 11:15:17
+
+Cell 14 sends blue message to Cell 5 at 11:15:17
+
+Cell 17 sends blue message to Cell 6 at 11:15:17
+
+Cell 10 sends blue message to Cell 3 at 11:15:17
+
+Cell 10 receives blue message from Cell 3 at 11:15:17
+
+Cell 10 turns  blue at 11:15:17
+
+Cell 10 sends blue message to Cell 3 at 11:15:17
+
+Cell 10 receives blue message from Cell 3 at 11:15:17
+
+Cell 10 turns  blue at 11:15:17
+
+Cell 9 sends blue message to Cell 3 at 11:15:17
+
+Cell 10 sends blue message to Cell 3 at 11:15:17
+
+Cell 3 sends blue message to Cell 1 at 11:15:17
+
+Cell 3 sends blue message to Cell 8 at 11:15:17
+
+Cell 5 receives blue message from Cell 16 at 11:15:17
+
+Cell 5 turns  blue at 11:15:17
+
+Cell 5 sends blue message to Cell 16 at 11:15:17
+
+Cell 5 sends blue message to Cell 2 at 11:15:17
+
+Cell 5 sends blue message to Cell 15 at 11:15:17
+
+Cell 5 receives blue message from Cell 14 at 11:15:17
+
+Cell 5 turns  blue at 11:15:17
+
+Cell 5 sends blue message to Cell 14 at 11:15:17
+
+Cell 5 sends blue message to Cell 2 at 11:15:17
+
+Cell 5 sends blue message to Cell 16 at 11:15:17
+
+Cell 5 sends blue message to Cell 15 at 11:15:17
+
+Cell 5 receives blue message from Cell 14 at 11:15:17
+
+Cell 5 turns  blue at 11:15:17
+
+Cell 5 sends blue message to Cell 16 at 11:15:17
+
+Cell 5 sends blue message to Cell 14 at 11:15:17
+
+Cell 5 sends blue message to Cell 2 at 11:15:17
+
+Cell 7 sends blue message to Cell 2 at 11:15:18
+
+Cell 7 receives blue message from Cell 9 at 11:15:18
+
+Cell 7 turns  blue at 11:15:18
+
+Cell 7 sends blue message to Cell 2 at 11:15:18
+
+Cell 7 sends blue message to Cell 3 at 11:15:18
+
+Cell 7 sends blue message to Cell 20 at 11:15:18
+
+Cell 7 receives blue message from Cell 2 at 11:15:18
+
+Cell 7 turns  blue at 11:15:18
+
+Cell 7 sends blue message to Cell 3 at 11:15:18
+
+Cell 7 sends blue message to Cell 2 at 11:15:18
+
+Cell 15 receives blue message from Cell 5 at 11:15:18
+
+Cell 15 turns  blue at 11:15:18
+
+Cell 7 receives blue message from Cell 9 at 11:15:18
+
+Cell 7 turns  blue at 11:15:18
+
+Cell 7 sends blue message to Cell 20 at 11:15:18
+
+Cell 7 sends blue message to Cell 2 at 11:15:18
+
+Cell 13 receives blue message from Cell 4 at 11:15:18
+
+Cell 13 turns  blue at 11:15:18
+
+Cell 13 sends blue message to Cell 4 at 11:15:18
+
+Cell 19 sends blue message to Cell 6 at 11:15:18
+
+Cell 8 receives blue message from Cell 13 at 11:15:18
+
+Cell 8 turns  blue at 11:15:18
+
+Cell 13 sends blue message to Cell 8 at 11:15:18
+
+Cell 7 sends blue message to Cell 3 at 11:15:18
+
+Cell 8 sends blue message to Cell 3 at 11:15:18
+
+Cell 19 receives blue message from Cell 6 at 11:15:18
+
+Cell 19 turns  blue at 11:15:18
+
+Cell 13 receives blue message from Cell 4 at 11:15:18
+
+Cell 13 turns  blue at 11:15:18
+
+Cell 8 receives blue message from Cell 3 at 11:15:18
+
+Cell 8 turns  blue at 11:15:18
+
+Cell 1 sends blue message to Cell 2 at 11:15:18
+
+Cell 19 sends blue message to Cell 6 at 11:15:18
+
+Cell 13 sends blue message to Cell 4 at 11:15:18
+
+Cell 8 sends blue message to Cell 3 at 11:15:18
+
+Cell 16 receives blue message from Cell 5 at 11:15:18
+
+Cell 16 turns  blue at 11:15:18
+
+Cell 18 sends blue message to Cell 6 at 11:15:18
+
+Cell 13 sends blue message to Cell 8 at 11:15:18
+
+Cell 8 receives blue message from Cell 3 at 11:15:18
+
+Cell 8 turns  blue at 11:15:18
+
+Cell 2 receives blue message from Cell 5 at 11:15:18
+
+Cell 2 turns  blue at 11:15:18
+
+Cell 2 sends blue message to Cell 5 at 11:15:18
+
+Cell 2 sends blue message to Cell 7 at 11:15:18
+
+Cell 2 sends blue message to Cell 1 at 11:15:18
+
+Cell 2 receives blue message from Cell 6 at 11:15:18
+
+Cell 2 turns  blue at 11:15:18
+
+Cell 2 sends blue message to Cell 7 at 11:15:18
+
+Cell 2 sends blue message to Cell 1 at 11:15:18
+
+Cell 2 sends blue message to Cell 5 at 11:15:18
+
+Cell 9 sends blue message to Cell 7 at 11:15:18
+
+Cell 9 receives blue message from Cell 3 at 11:15:18
+
+Cell 9 turns  blue at 11:15:18
+
+Cell 2 receives blue message from Cell 5 at 11:15:18
+
+Cell 2 turns  blue at 11:15:18
+
+Cell 9 sends blue message to Cell 7 at 11:15:18
+
+Cell 2 sends blue message to Cell 6 at 11:15:18
+
+Cell 9 sends blue message to Cell 3 at 11:15:18
+
+Cell 2 sends blue message to Cell 7 at 11:15:18
+
+Cell 2 sends blue message to Cell 1 at 11:15:18
+
+Cell 9 receives blue message from Cell 3 at 11:15:18
+
+Cell 9 turns  blue at 11:15:18
+
+Cell 2 sends blue message to Cell 5 at 11:15:18
+
+Cell 9 sends blue message to Cell 7 at 11:15:18
+
+Cell 20 gets blue message from Cell 7
+
+Cell 20 sends blue message to Cell 21 at 11:15:19
+
+Cell 11 receives blue message from Cell 4 at 11:15:19
+
+Cell 11 turns  blue at 11:15:19
+
+Cell 11 sends blue message to Cell 4 at 11:15:19
+
+Cell 4 sends blue message to Cell 1 at 11:15:19
+
+Cell 4 sends blue message to Cell 12 at 11:15:19
+
+Cell 12 receives blue message from Cell 4 at 11:15:19
+
+Cell 12 turns  blue at 11:15:19
+
+Cell 4 receives blue message from Cell 13 at 11:15:19
+
+Cell 4 turns  blue at 11:15:19
+
+Cell 12 sends blue message to Cell 4 at 11:15:19
+
+Cell 4 sends blue message to Cell 13 at 11:15:19
+
+Cell 4 sends blue message to Cell 11 at 11:15:19
+
+Cell 13 receives blue message from Cell 4 at 11:15:19
+
+Cell 13 turns  blue at 11:15:19
+
+Cell 4 sends blue message to Cell 1 at 11:15:19
+
+Cell 13 sends blue message to Cell 8 at 11:15:19
+
+Cell 13 sends blue message to Cell 4 at 11:15:19
+
+Cell 1 sends blue message to Cell 4 at 11:15:19
+
+Cell 16 sends blue message to Cell 5 at 11:15:19
+
+Cell 1 sends blue message to Cell 3 at 11:15:19
+
+Cell 6 gets blue message from Cell 19
+
+Cell 6 sends blue message to Cell 18 at 11:15:19
+
+Cell 1 receives blue message from Cell 3 at 11:15:19
+
+Cell 1 turns  blue at 11:15:19
+
+Cell 16 receives blue message from Cell 5 at 11:15:19
+
+Cell 16 turns  blue at 11:15:19
+
+Cell 18 gets blue message from Cell 6
+
+Cell 18 sends blue message to Cell 21 at 11:15:19
+
+Cell 1 sends blue message to Cell 3 at 11:15:19
+
+Cell 8 sends blue message to Cell 3 at 11:15:19
+
+Cell 14 receives blue message from Cell 5 at 11:15:19
+
+Cell 14 turns  blue at 11:15:19
+
+Cell 1 sends blue message to Cell 2 at 11:15:19
+
+Cell 16 sends blue message to Cell 5 at 11:15:19
+
+Cell 14 sends blue message to Cell 5 at 11:15:19
+
+Cell 1 sends blue message to Cell 4 at 11:15:19
+
+Cell 14 receives blue message from Cell 5 at 11:15:19
+
+Cell 14 turns  blue at 11:15:19
+
+Cell 1 receives blue message from Cell 3 at 11:15:19
+
+Cell 1 turns  blue at 11:15:19
+
+Cell 14 sends blue message to Cell 5 at 11:15:19
+
+Cell 1 sends blue message to Cell 4 at 11:15:19
+
+Cell 1 sends blue message to Cell 3 at 11:15:19
+
+Cell 14 receives blue message from Cell 5 at 11:15:19
+
+Cell 14 turns  blue at 11:15:19
+
+Cell 1 sends blue message to Cell 2 at 11:15:19
+
+Cell 14 sends blue message to Cell 5 at 11:15:19
+
+Cell 2 receives blue message from Cell 5 at 11:15:19
+
+Cell 2 turns  blue at 11:15:19
+
+Cell 2 sends blue message to Cell 6 at 11:15:19
+
+Cell 2 sends blue message to Cell 7 at 11:15:19
+
+Cell 2 sends blue message to Cell 5 at 11:15:19
+
+Cell 2 receives blue message from Cell 5 at 11:15:19
+
+Cell 2 turns  blue at 11:15:19
+
+Cell 2 sends blue message to Cell 1 at 11:15:19
+
+Cell 2 sends blue message to Cell 5 at 11:15:19
+
+Cell 5 sends blue message to Cell 15 at 11:15:19
+
+Cell 5 receives blue message from Cell 14 at 11:15:19
+
+Cell 5 turns  blue at 11:15:19
+
+Cell 5 sends blue message to Cell 15 at 11:15:19
+
+Cell 20 receives blue message from Cell 7 at 11:15:20
+
+Cell 20 turns  blue at 11:15:20
+
+Cell 15 sends blue message to Cell 5 at 11:15:20
+
+Cell 11 receives blue message from Cell 4 at 11:15:20
+
+Cell 11 turns  blue at 11:15:20
+
+Cell 11 sends blue message to Cell 4 at 11:15:20
+
+Cell 4 receives blue message from Cell 1 at 11:15:20
+
+Cell 4 turns  blue at 11:15:20
+
+Cell 4 sends blue message to Cell 1 at 11:15:20
+
+Cell 6 receives blue message from Cell 2 at 11:15:20
+
+Cell 6 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 19 at 11:15:20
+
+Cell 6 sends blue message to Cell 2 at 11:15:20
+
+Cell 6 sends blue message to Cell 18 at 11:15:20
+
+Cell 7 receives blue message from Cell 2 at 11:15:20
+
+Cell 7 turns  blue at 11:15:20
+
+Cell 18 receives blue message from Cell 6 at 11:15:20
+
+Cell 7 sends blue message to Cell 20 at 11:15:20
+
+Cell 18 turns  blue at 11:15:20
+
+Cell 7 sends blue message to Cell 2 at 11:15:20
+
+Cell 18 sends blue message to Cell 6 at 11:15:20
+
+Cell 7 sends blue message to Cell 3 at 11:15:20
+
+Cell 6 receives blue message from Cell 18 at 11:15:20
+
+Cell 6 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 17 at 11:15:20
+
+Cell 1 receives blue message from Cell 3 at 11:15:20
+
+Cell 1 turns  blue at 11:15:20
+
+Cell 14 receives blue message from Cell 5 at 11:15:20
+
+Cell 14 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 2 at 11:15:20
+
+Cell 17 receives blue message from Cell 6 at 11:15:20
+
+Cell 17 turns  blue at 11:15:20
+
+Cell 1 sends blue message to Cell 3 at 11:15:20
+
+Cell 14 sends blue message to Cell 5 at 11:15:20
+
+Cell 1 sends blue message to Cell 2 at 11:15:20
+
+Cell 6 sends blue message to Cell 18 at 11:15:20
+
+Cell 18 receives blue message from Cell 6 at 11:15:20
+
+Cell 18 turns  blue at 11:15:20
+
+Cell 6 receives blue message from Cell 2 at 11:15:20
+
+Cell 6 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 19 at 11:15:20
+
+Cell 1 sends blue message to Cell 4 at 11:15:20
+
+Cell 18 sends blue message to Cell 6 at 11:15:20
+
+Cell 6 sends blue message to Cell 18 at 11:15:20
+
+Cell 1 receives blue message from Cell 4 at 11:15:20
+
+Cell 1 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 17 at 11:15:20
+
+Cell 18 receives blue message from Cell 6 at 11:15:20
+
+Cell 18 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 2 at 11:15:20
+
+Cell 18 sends blue message to Cell 6 at 11:15:20
+
+Cell 6 receives blue message from Cell 17 at 11:15:20
+
+Cell 6 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 2 at 11:15:20
+
+Cell 6 sends blue message to Cell 18 at 11:15:20
+
+Cell 6 sends blue message to Cell 17 at 11:15:20
+
+Cell 18 receives blue message from Cell 6 at 11:15:20
+
+Cell 18 turns  blue at 11:15:20
+
+Cell 18 sends blue message to Cell 6 at 11:15:20
+
+Cell 6 receives blue message from Cell 19 at 11:15:20
+
+Cell 6 turns  blue at 11:15:20
+
+Cell 3 receives blue message from Cell 7 at 11:15:20
+
+Cell 3 turns  blue at 11:15:20
+
+Cell 6 sends blue message to Cell 2 at 11:15:20
+
+Cell 2 sends blue message to Cell 7 at 11:15:20
+
+Cell 3 sends blue message to Cell 9 at 11:15:20
+
+Cell 2 sends blue message to Cell 6 at 11:15:20
+
+Cell 3 sends blue message to Cell 1 at 11:15:20
+
+Cell 9 receives blue message from Cell 3 at 11:15:20
+
+Cell 9 turns  blue at 11:15:20
+
+Cell 2 receives blue message from Cell 5 at 11:15:20
+
+Cell 2 turns  blue at 11:15:20
+
+Cell 3 sends blue message to Cell 10 at 11:15:20
+
+Cell 2 sends blue message to Cell 7 at 11:15:20
+
+Cell 2 sends blue message to Cell 6 at 11:15:20
+
+Cell 5 sends blue message to Cell 2 at 11:15:20
+
+Cell 5 receives blue message from Cell 2 at 11:15:20
+
+Cell 5 turns  blue at 11:15:20
+
+Cell 5 sends blue message to Cell 2 at 11:15:20
+
+Cell 5 sends blue message to Cell 14 at 11:15:20
+
+Cell 5 sends blue message to Cell 15 at 11:15:20
+
+Cell 14 receives blue message from Cell 5 at 11:15:20
+
+Cell 14 turns  blue at 11:15:20
+
+Cell 5 receives blue message from Cell 2 at 11:15:20
+
+Cell 5 turns  blue at 11:15:20
+
+Cell 5 sends blue message to Cell 16 at 11:15:20
+
+Cell 20 sends blue message to Cell 7 at 11:15:21
+
+Cell 20 receives blue message from Cell 7 at 11:15:21
+
+Cell 20 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 4 sends blue message to Cell 11 at 11:15:21
+
+Cell 11 receives blue message from Cell 4 at 11:15:21
+
+Cell 11 turns  blue at 11:15:21
+
+Cell 4 receives blue message from Cell 1 at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 11 sends blue message to Cell 4 at 11:15:21
+
+Cell 4 sends blue message to Cell 1 at 11:15:21
+
+Cell 8 receives blue message from Cell 3 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 4 sends blue message to Cell 12 at 11:15:21
+
+Cell 8 receives blue message from Cell 3 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 11 at 11:15:21
+
+Cell 12 receives blue message from Cell 4 at 11:15:21
+
+Cell 12 turns  blue at 11:15:21
+
+Cell 11 receives blue message from Cell 4 at 11:15:21
+
+Cell 11 turns  blue at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 12 sends blue message to Cell 4 at 11:15:21
+
+Cell 4 receives blue message from Cell 12 at 11:15:21
+
+Cell 7 receives blue message from Cell 2 at 11:15:21
+
+Cell 7 turns  blue at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 7 sends blue message to Cell 3 at 11:15:21
+
+Cell 7 sends blue message to Cell 20 at 11:15:21
+
+Cell 4 sends blue message to Cell 1 at 11:15:21
+
+Cell 8 receives blue message from Cell 3 at 11:15:21
+
+Cell 7 sends blue message to Cell 2 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 7 receives blue message from Cell 9 at 11:15:21
+
+Cell 7 turns  blue at 11:15:21
+
+Cell 17 sends blue message to Cell 6 at 11:15:21
+
+Cell 4 sends blue message to Cell 12 at 11:15:21
+
+Cell 8 receives blue message from Cell 13 at 11:15:21
+
+Cell 7 sends blue message to Cell 3 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 4 receives blue message from Cell 11 at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 7 sends blue message to Cell 20 at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 17 receives blue message from Cell 6 at 11:15:21
+
+Cell 17 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 11 at 11:15:21
+
+Cell 17 sends blue message to Cell 6 at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 1 sends blue message to Cell 2 at 11:15:21
+
+Cell 8 receives blue message from Cell 13 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 1 sends blue message to Cell 4 at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 4 sends blue message to Cell 12 at 11:15:21
+
+Cell 1 sends blue message to Cell 3 at 11:15:21
+
+Cell 4 receives blue message from Cell 12 at 11:15:21
+
+Cell 8 receives blue message from Cell 13 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 1 receives blue message from Cell 2 at 11:15:21
+
+Cell 1 turns  blue at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 4 sends blue message to Cell 1 at 11:15:21
+
+Cell 1 sends blue message to Cell 4 at 11:15:21
+
+Cell 4 sends blue message to Cell 11 at 11:15:21
+
+Cell 1 sends blue message to Cell 3 at 11:15:21
+
+Cell 1 sends blue message to Cell 2 at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 4 receives blue message from Cell 13 at 11:15:21
+
+Cell 6 sends blue message to Cell 19 at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 1 receives blue message from Cell 3 at 11:15:21
+
+Cell 1 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 11 at 11:15:21
+
+Cell 1 sends blue message to Cell 2 at 11:15:21
+
+Cell 9 sends blue message to Cell 3 at 11:15:21
+
+Cell 6 sends blue message to Cell 17 at 11:15:21
+
+Cell 4 sends blue message to Cell 12 at 11:15:21
+
+Cell 9 sends blue message to Cell 7 at 11:15:21
+
+Cell 10 receives blue message from Cell 3 at 11:15:21
+
+Cell 10 turns  blue at 11:15:21
+
+Cell 6 receives blue message from Cell 19 at 11:15:21
+
+Cell 6 turns  blue at 11:15:21
+
+Cell 3 receives blue message from Cell 8 at 11:15:21
+
+Cell 3 turns  blue at 11:15:21
+
+Cell 4 sends blue message to Cell 1 at 11:15:21
+
+Cell 10 sends blue message to Cell 3 at 11:15:21
+
+Cell 2 sends blue message to Cell 1 at 11:15:21
+
+Cell 4 sends blue message to Cell 13 at 11:15:21
+
+Cell 6 sends blue message to Cell 2 at 11:15:21
+
+Cell 3 sends blue message to Cell 9 at 11:15:21
+
+Cell 4 receives blue message from Cell 13 at 11:15:21
+
+Cell 4 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 10 at 11:15:21
+
+Cell 6 sends blue message to Cell 18 at 11:15:21
+
+Cell 4 sends blue message to Cell 1 at 11:15:21
+
+Cell 18 receives blue message from Cell 6 at 11:15:21
+
+Cell 18 turns  blue at 11:15:21
+
+Cell 10 receives blue message from Cell 3 at 11:15:21
+
+Cell 10 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 8 at 11:15:21
+
+Cell 18 sends blue message to Cell 6 at 11:15:21
+
+Cell 10 sends blue message to Cell 3 at 11:15:21
+
+Cell 3 receives blue message from Cell 1 at 11:15:21
+
+Cell 3 turns  blue at 11:15:21
+
+Cell 8 receives blue message from Cell 3 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 10 at 11:15:21
+
+Cell 8 sends blue message to Cell 3 at 11:15:21
+
+Cell 3 sends blue message to Cell 9 at 11:15:21
+
+Cell 10 receives blue message from Cell 3 at 11:15:21
+
+Cell 10 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 8 at 11:15:21
+
+Cell 10 sends blue message to Cell 3 at 11:15:21
+
+Cell 8 receives blue message from Cell 3 at 11:15:21
+
+Cell 8 turns  blue at 11:15:21
+
+Cell 3 receives blue message from Cell 10 at 11:15:21
+
+Cell 3 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 10 at 11:15:21
+
+Cell 3 sends blue message to Cell 1 at 11:15:21
+
+Cell 3 sends blue message to Cell 9 at 11:15:21
+
+Cell 3 receives blue message from Cell 10 at 11:15:21
+
+Cell 3 turns  blue at 11:15:21
+
+Cell 3 sends blue message to Cell 9 at 11:15:21
+
+Cell 3 sends blue message to Cell 8 at 11:15:21
+
+Cell 9 receives blue message from Cell 3 at 11:15:21
+
+Cell 9 turns  blue at 11:15:21
+
+Cell 9 sends blue message to Cell 7 at 11:15:21
+
+Cell 9 sends blue message to Cell 3 at 11:15:21
+
+Cell 5 sends blue message to Cell 2 at 11:15:21
+
+Cell 5 sends blue message to Cell 14 at 11:15:21
+
+Cell 5 receives blue message from Cell 2 at 11:15:21
+
+Cell 5 turns  blue at 11:15:21
+
+Cell 5 sends blue message to Cell 16 at 11:15:21
+
+Cell 20 sends blue message to Cell 7 at 11:15:22
+
+Cell 20 receives blue message from Cell 7 at 11:15:22
+
+Cell 20 turns  blue at 11:15:22
+
+Cell 20 sends blue message to Cell 7 at 11:15:22
+
+Cell 20 receives blue message from Cell 7 at 11:15:22
+
+Cell 20 turns  blue at 11:15:22
+
+Cell 15 receives blue message from Cell 5 at 11:15:22
+
+Cell 20 sends blue message to Cell 7 at 11:15:22
+
+Cell 15 turns  blue at 11:15:22
+
+Cell 15 sends blue message to Cell 5 at 11:15:22
+
+Cell 20 receives blue message from Cell 7 at 11:15:22
+
+Cell 20 turns  blue at 11:15:22
+
+Cell 20 sends blue message to Cell 7 at 11:15:22
+
+Cell 15 receives blue message from Cell 5 at 11:15:22
+
+Cell 15 turns  blue at 11:15:22
+
+Cell 13 receives blue message from Cell 4 at 11:15:22
+
+Cell 13 turns  blue at 11:15:22
+
+Cell 15 sends blue message to Cell 5 at 11:15:22
+
+Cell 20 receives blue message from Cell 7 at 11:15:22
+
+Cell 20 turns  blue at 11:15:22
+
+Cell 13 sends blue message to Cell 8 at 11:15:22
+
+Cell 20 sends blue message to Cell 7 at 11:15:22
+
+Cell 13 sends blue message to Cell 4 at 11:15:22
+
+Cell 19 receives blue message from Cell 6 at 11:15:22
+
+Cell 19 turns  blue at 11:15:22
+
+Cell 19 sends blue message to Cell 6 at 11:15:22
+
+Cell 13 receives blue message from Cell 4 at 11:15:22
+
+Cell 13 turns  blue at 11:15:22
+
+Cell 13 sends blue message to Cell 4 at 11:15:22
+
+Cell 13 sends blue message to Cell 8 at 11:15:22
+
+Cell 11 sends blue message to Cell 4 at 11:15:22
+
+Cell 13 receives blue message from Cell 4 at 11:15:22
+
+Cell 13 turns  blue at 11:15:22
+
+Cell 11 receives blue message from Cell 4 at 11:15:22
+
+Cell 11 turns  blue at 11:15:22
+
+Cell 13 sends blue message to Cell 8 at 11:15:22
+
+Cell 11 sends blue message to Cell 4 at 11:15:22
+
+Cell 13 sends blue message to Cell 4 at 11:15:22
+
+Cell 7 sends blue message to Cell 2 at 11:15:22
+
+Cell 11 receives blue message from Cell 4 at 11:15:22
+
+Cell 13 receives blue message from Cell 4 at 11:15:22
+
+Cell 13 turns  blue at 11:15:22
+
+Cell 11 turns  blue at 11:15:22
+
+Cell 7 receives blue message from Cell 9 at 11:15:22
+
+Cell 17 receives blue message from Cell 6 at 11:15:22
+
+Cell 7 turns  blue at 11:15:22
+
+Cell 13 sends blue message to Cell 8 at 11:15:22
+
+Cell 17 turns  blue at 11:15:22
+
+Cell 13 sends blue message to Cell 4 at 11:15:22
+
+Cell 17 sends blue message to Cell 6 at 11:15:22
+
+Cell 17 receives blue message from Cell 6 at 11:15:22
+
+Cell 17 turns  blue at 11:15:22
+
+Cell 1 sends blue message to Cell 3 at 11:15:22
+
+Cell 17 sends blue message to Cell 6 at 11:15:22
+
+Cell 2 sends blue message to Cell 5 at 11:15:22
+
+Cell 2 receives blue message from Cell 1 at 11:15:22
+
+Cell 2 turns  blue at 11:15:22
+
+Cell 2 sends blue message to Cell 1 at 11:15:22
+
+Cell 4 sends blue message to Cell 11 at 11:15:22
+
+Cell 6 sends blue message to Cell 19 at 11:15:22
+
+Cell 2 sends blue message to Cell 7 at 11:15:22
+
+Cell 4 sends blue message to Cell 12 at 11:15:22
+
+Cell 6 receives blue message from Cell 18 at 11:15:22
+
+Cell 6 turns  blue at 11:15:22
+
+Cell 4 sends blue message to Cell 13 at 11:15:22
+
+Cell 6 sends blue message to Cell 19 at 11:15:22
+
+Cell 2 sends blue message to Cell 6 at 11:15:22
+
+Cell 8 sends blue message to Cell 3 at 11:15:22
+
+Cell 4 receives blue message from Cell 11 at 11:15:22
+
+Cell 6 sends blue message to Cell 18 at 11:15:22
+
+Cell 2 receives blue message from Cell 5 at 11:15:22
+
+Cell 10 receives blue message from Cell 3 at 11:15:22
+
+Cell 10 turns  blue at 11:15:22
+
+Cell 2 turns  blue at 11:15:22
+
+Cell 8 receives blue message from Cell 3 at 11:15:22
+
+Cell 4 turns  blue at 11:15:22
+
+Cell 6 receives blue message from Cell 2 at 11:15:22
+
+Cell 2 sends blue message to Cell 5 at 11:15:22
+
+Cell 10 sends blue message to Cell 3 at 11:15:22
+
+Cell 6 turns  blue at 11:15:22
+
+Cell 8 turns  blue at 11:15:22
+
+Cell 4 sends blue message to Cell 13 at 11:15:22
+
+Cell 2 sends blue message to Cell 7 at 11:15:22
+
+Cell 8 sends blue message to Cell 3 at 11:15:22
+
+Cell 18 receives blue message from Cell 6 at 11:15:22
+
+Cell 18 turns  blue at 11:15:22
+
+Cell 2 sends blue message to Cell 6 at 11:15:22
+
+Cell 3 sends blue message to Cell 10 at 11:15:22
+
+Cell 18 sends blue message to Cell 6 at 11:15:22
+
+Cell 2 sends blue message to Cell 1 at 11:15:22
+
+Cell 10 receives blue message from Cell 3 at 11:15:22
+
+Cell 10 turns  blue at 11:15:22
+
+Cell 3 receives blue message from Cell 9 at 11:15:22
+
+Cell 3 turns  blue at 11:15:22
+
+Cell 10 sends blue message to Cell 3 at 11:15:22
+
+Cell 3 sends blue message to Cell 9 at 11:15:22
+
+Cell 2 receives blue message from Cell 5 at 11:15:22
+
+Cell 2 turns  blue at 11:15:22
+
+Cell 9 receives blue message from Cell 3 at 11:15:22
+
+Cell 3 sends blue message to Cell 10 at 11:15:22
+
+Cell 9 turns  blue at 11:15:22
+
+Cell 2 sends blue message to Cell 5 at 11:15:22
+
+Cell 3 sends blue message to Cell 1 at 11:15:22
+
+Cell 9 sends blue message to Cell 3 at 11:15:22
+
+Cell 10 receives blue message from Cell 3 at 11:15:22
+
+Cell 2 sends blue message to Cell 6 at 11:15:22
+
+Cell 10 turns  blue at 11:15:22
+
+Cell 3 sends blue message to Cell 8 at 11:15:22
+
+Cell 9 sends blue message to Cell 7 at 11:15:22
+
+Cell 5 sends blue message to Cell 15 at 11:15:22
+
+Cell 10 sends blue message to Cell 3 at 11:15:22
+
+Cell 5 sends blue message to Cell 14 at 11:15:22
+
+Cell 5 receives blue message from Cell 16 at 11:15:22
+
+Cell 5 turns  blue at 11:15:22
+
+Cell 5 sends blue message to Cell 14 at 11:15:22
+
+Cell 5 sends blue message to Cell 15 at 11:15:22
+
+Cell 5 sends blue message to Cell 16 at 11:15:22
+
+Cell 5 receives blue message from Cell 16 at 11:15:22
+
+Cell 5 turns  blue at 11:15:22
+
+Cell 5 sends blue message to Cell 15 at 11:15:22
+
+Cell 5 sends blue message to Cell 16 at 11:15:22
+
+Cell 15 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 15 turns  blue at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 19 receives blue message from Cell 6 at 11:15:23
+
+Cell 19 turns  blue at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 12 receives blue message from Cell 4 at 11:15:23
+
+Cell 12 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 12 sends blue message to Cell 4 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 11 sends blue message to Cell 4 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 11 receives blue message from Cell 4 at 11:15:23
+
+Cell 11 turns  blue at 11:15:23
+
+Cell 13 receives blue message from Cell 4 at 11:15:23
+
+Cell 13 turns  blue at 11:15:23
+
+Cell 11 sends blue message to Cell 4 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 13 sends blue message to Cell 4 at 11:15:23
+
+Cell 11 receives blue message from Cell 4 at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 11 turns  blue at 11:15:23
+
+Cell 1 sends blue message to Cell 4 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 1 receives blue message from Cell 2 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 1 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 1 sends blue message to Cell 2 at 11:15:23
+
+Cell 1 sends blue message to Cell 4 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 1 sends blue message to Cell 3 at 11:15:23
+
+Cell 16 receives blue message from Cell 5 at 11:15:23
+
+Cell 16 turns  blue at 11:15:23
+
+Cell 16 sends blue message to Cell 5 at 11:15:23
+
+Cell 6 sends blue message to Cell 2 at 11:15:23
+
+Cell 4 sends blue message to Cell 11 at 11:15:23
+
+Cell 6 sends blue message to Cell 17 at 11:15:23
+
+Cell 17 receives blue message from Cell 6 at 11:15:23
+
+Cell 4 sends blue message to Cell 12 at 11:15:23
+
+Cell 17 turns  blue at 11:15:23
+
+Cell 8 receives blue message from Cell 13 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 4 sends blue message to Cell 1 at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 14 sends blue message to Cell 5 at 11:15:23
+
+Cell 4 receives blue message from Cell 12 at 11:15:23
+
+Cell 4 turns  blue at 11:15:23
+
+Cell 4 sends blue message to Cell 13 at 11:15:23
+
+Cell 8 receives blue message from Cell 13 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 14 receives blue message from Cell 5 at 11:15:23
+
+Cell 14 turns  blue at 11:15:23
+
+Cell 4 sends blue message to Cell 12 at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 3 receives blue message from Cell 10 at 11:15:23
+
+Cell 3 turns  blue at 11:15:23
+
+Cell 8 receives blue message from Cell 13 at 11:15:23
+
+Cell 2 sends blue message to Cell 7 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 9 receives blue message from Cell 3 at 11:15:23
+
+Cell 9 turns  blue at 11:15:23
+
+Cell 3 sends blue message to Cell 8 at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 2 receives blue message from Cell 6 at 11:15:23
+
+Cell 2 turns  blue at 11:15:23
+
+Cell 9 sends blue message to Cell 3 at 11:15:23
+
+Cell 3 sends blue message to Cell 10 at 11:15:23
+
+Cell 2 sends blue message to Cell 5 at 11:15:23
+
+Cell 10 receives blue message from Cell 3 at 11:15:23
+
+Cell 9 sends blue message to Cell 7 at 11:15:23
+
+Cell 3 sends blue message to Cell 9 at 11:15:23
+
+Cell 2 sends blue message to Cell 7 at 11:15:23
+
+Cell 10 turns  blue at 11:15:23
+
+Cell 8 receives blue message from Cell 13 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 10 sends blue message to Cell 3 at 11:15:23
+
+Cell 2 sends blue message to Cell 6 at 11:15:23
+
+Cell 9 receives blue message from Cell 3 at 11:15:23
+
+Cell 9 turns  blue at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 3 receives blue message from Cell 7 at 11:15:23
+
+Cell 2 sends blue message to Cell 1 at 11:15:23
+
+Cell 3 turns  blue at 11:15:23
+
+Cell 3 sends blue message to Cell 8 at 11:15:23
+
+Cell 2 receives blue message from Cell 5 at 11:15:23
+
+Cell 3 sends blue message to Cell 10 at 11:15:23
+
+Cell 2 turns  blue at 11:15:23
+
+Cell 8 receives blue message from Cell 3 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 3 sends blue message to Cell 9 at 11:15:23
+
+Cell 3 receives blue message from Cell 7 at 11:15:23
+
+Cell 3 turns  blue at 11:15:23
+
+Cell 5 sends blue message to Cell 2 at 11:15:23
+
+Cell 3 sends blue message to Cell 9 at 11:15:23
+
+Cell 2 sends blue message to Cell 5 at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 5 sends blue message to Cell 14 at 11:15:23
+
+Cell 2 sends blue message to Cell 6 at 11:15:23
+
+Cell 3 sends blue message to Cell 1 at 11:15:23
+
+Cell 5 receives blue message from Cell 14 at 11:15:23
+
+Cell 5 turns  blue at 11:15:23
+
+Cell 3 sends blue message to Cell 8 at 11:15:23
+
+Cell 8 receives blue message from Cell 3 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 5 sends blue message to Cell 2 at 11:15:23
+
+Cell 3 sends blue message to Cell 10 at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 3 receives blue message from Cell 7 at 11:15:23
+
+Cell 3 turns  blue at 11:15:23
+
+Cell 5 sends blue message to Cell 15 at 11:15:23
+
+Cell 8 receives blue message from Cell 3 at 11:15:23
+
+Cell 5 sends blue message to Cell 16 at 11:15:23
+
+Cell 8 turns  blue at 11:15:23
+
+Cell 5 receives blue message from Cell 14 at 11:15:23
+
+Cell 5 turns  blue at 11:15:23
+
+Cell 8 sends blue message to Cell 3 at 11:15:23
+
+Cell 5 sends blue message to Cell 16 at 11:15:23
+
+Cell 15 sends blue message to Cell 5 at 11:15:24
+
+Cell 19 sends blue message to Cell 6 at 11:15:24
+
+Cell 19 receives blue message from Cell 6 at 11:15:24
+
+Cell 19 turns  blue at 11:15:24
+
+Cell 19 sends blue message to Cell 6 at 11:15:24
+
+Cell 12 receives blue message from Cell 4 at 11:15:24
+
+Cell 12 turns  blue at 11:15:24
+
+Cell 7 sends blue message to Cell 3 at 11:15:24
+
+Cell 7 sends blue message to Cell 2 at 11:15:24
+
+Cell 7 sends blue message to Cell 20 at 11:15:24
+
+Cell 20 receives blue message from Cell 7 at 11:15:24
+
+Cell 20 turns  blue at 11:15:24
+
+Cell 13 sends blue message to Cell 8 at 11:15:24
+
+Cell 20 sends blue message to Cell 7 at 11:15:24
+
+Cell 13 receives blue message from Cell 4 at 11:15:24
+
+Cell 13 turns  blue at 11:15:24
+
+Cell 13 sends blue message to Cell 4 at 11:15:24
+
+Cell 13 sends blue message to Cell 8 at 11:15:24
+
+Cell 13 receives blue message from Cell 4 at 11:15:24
+
+Cell 13 turns  blue at 11:15:24
+
+Cell 13 sends blue message to Cell 8 at 11:15:24
+
+Cell 1 receives blue message from Cell 2 at 11:15:24
+
+Cell 1 turns  blue at 11:15:24
+
+Cell 13 sends blue message to Cell 4 at 11:15:24
+
+Cell 16 receives blue message from Cell 5 at 11:15:24
+
+Cell 16 turns  blue at 11:15:24
+
+Cell 16 sends blue message to Cell 5 at 11:15:24
+
+Cell 6 sends blue message to Cell 18 at 11:15:24
+
+Cell 17 sends blue message to Cell 6 at 11:15:24
+
+Cell 6 sends blue message to Cell 19 at 11:15:24
+
+Cell 6 receives blue message from Cell 2 at 11:15:24
+
+Cell 6 turns  blue at 11:15:24
+
+Cell 6 sends blue message to Cell 18 at 11:15:24
+
+Cell 6 sends blue message to Cell 17 at 11:15:24
+
+Cell 14 sends blue message to Cell 5 at 11:15:24
+
+Cell 6 sends blue message to Cell 2 at 11:15:24
+
+Cell 17 receives blue message from Cell 6 at 11:15:24
+
+Cell 17 turns  blue at 11:15:24
+
+Cell 6 sends blue message to Cell 19 at 11:15:24
+
+Cell 14 receives blue message from Cell 5 at 11:15:24
+
+Cell 14 turns  blue at 11:15:24
+
+Cell 17 sends blue message to Cell 6 at 11:15:24
+
+Cell 6 receives blue message from Cell 18 at 11:15:24
+
+Cell 6 turns  blue at 11:15:24
+
+Cell 14 sends blue message to Cell 5 at 11:15:24
+
+Cell 6 sends blue message to Cell 17 at 11:15:24
+
+Cell 6 sends blue message to Cell 19 at 11:15:24
+
+Cell 17 receives blue message from Cell 6 at 11:15:24
+
+Cell 17 turns  blue at 11:15:24
+
+Cell 17 sends blue message to Cell 6 at 11:15:24
+
+Cell 9 sends blue message to Cell 7 at 11:15:24
+
+Cell 9 sends blue message to Cell 3 at 11:15:24
+
+Cell 10 receives blue message from Cell 3 at 11:15:24
+
+Cell 10 turns  blue at 11:15:24
+
+Cell 10 sends blue message to Cell 3 at 11:15:24
+
+Cell 2 sends blue message to Cell 1 at 11:15:24
+
+Cell 2 sends blue message to Cell 7 at 11:15:24
+
+Cell 3 sends blue message to Cell 8 at 11:15:24
+
+Cell 2 receives blue message from Cell 5 at 11:15:24
+
+Cell 2 turns  blue at 11:15:24
+
+Cell 3 sends blue message to Cell 10 at 11:15:24
+
+Cell 2 sends blue message to Cell 7 at 11:15:24
+
+Cell 3 sends blue message to Cell 1 at 11:15:24
+
+Cell 2 sends blue message to Cell 5 at 11:15:24
+
+Cell 5 sends blue message to Cell 15 at 11:15:24
+
+Cell 8 receives blue message from Cell 3 at 11:15:24
+
+Cell 5 sends blue message to Cell 2 at 11:15:24
+
+Cell 8 turns  blue at 11:15:24
+
+Cell 3 receives blue message from Cell 8 at 11:15:24
+
+Cell 3 turns  blue at 11:15:24
+
+Cell 8 sends blue message to Cell 3 at 11:15:24
+
+Cell 5 receives blue message from Cell 14 at 11:15:24
+
+Cell 5 turns  blue at 11:15:24
+
+Cell 8 receives blue message from Cell 13 at 11:15:24
+
+Cell 5 sends blue message to Cell 2 at 11:15:24
+
+Cell 8 turns  blue at 11:15:24
+
+Cell 5 sends blue message to Cell 15 at 11:15:24
+
+Cell 8 sends blue message to Cell 3 at 11:15:24
+
+Cell 5 sends blue message to Cell 16 at 11:15:24
+
+Cell 8 receives blue message from Cell 13 at 11:15:24
+
+Cell 8 turns  blue at 11:15:24
+
+Cell 8 sends blue message to Cell 3 at 11:15:24
+
+Cell 8 receives blue message from Cell 13 at 11:15:24
+
+Cell 8 turns  blue at 11:15:24
+
+Cell 8 sends blue message to Cell 3 at 11:15:24
+
+Cell 8 receives blue message from Cell 3 at 11:15:24
+
+Cell 8 turns  blue at 11:15:24
+
+Cell 19 receives blue message from Cell 6 at 11:15:25
+
+Cell 19 turns  blue at 11:15:25
+
+Cell 12 sends blue message to Cell 4 at 11:15:25
+
+Cell 7 receives blue message from Cell 2 at 11:15:25
+
+Cell 7 turns  blue at 11:15:25
+
+Cell 11 sends blue message to Cell 4 at 11:15:25
+
+Cell 7 sends blue message to Cell 2 at 11:15:25
+
+Cell 11 receives blue message from Cell 4 at 11:15:25
+
+Cell 11 turns  blue at 11:15:25
+
+Cell 7 sends blue message to Cell 3 at 11:15:25
+
+Cell 11 sends blue message to Cell 4 at 11:15:25
+
+Cell 7 receives blue message from Cell 9 at 11:15:25
+
+Cell 7 turns  blue at 11:15:25
+
+Cell 7 sends blue message to Cell 3 at 11:15:25
+
+Cell 7 sends blue message to Cell 2 at 11:15:25
+
+Cell 1 sends blue message to Cell 2 at 11:15:25
+
+Cell 7 sends blue message to Cell 20 at 11:15:25
+
+Cell 13 receives blue message from Cell 4 at 11:15:25
+
+Cell 13 turns  blue at 11:15:25
+
+Cell 7 receives blue message from Cell 2 at 11:15:25
+
+Cell 7 turns  blue at 11:15:25
+
+Cell 13 sends blue message to Cell 8 at 11:15:25
+
+Cell 7 sends blue message to Cell 20 at 11:15:25
+
+Cell 7 sends blue message to Cell 3 at 11:15:25
+
+Cell 18 receives blue message from Cell 6 at 11:15:25
+
+Cell 18 turns  blue at 11:15:25
+
+Cell 7 receives blue message from Cell 2 at 11:15:25
+
+Cell 7 turns  blue at 11:15:25
+
+Cell 18 sends blue message to Cell 6 at 11:15:25
+
+Cell 7 sends blue message to Cell 20 at 11:15:25
+
+Cell 7 sends blue message to Cell 2 at 11:15:25
+
+Cell 18 receives blue message from Cell 6 at 11:15:25
+
+Cell 7 sends blue message to Cell 3 at 11:15:25
+
+Cell 18 turns  blue at 11:15:25
+
+Cell 18 sends blue message to Cell 6 at 11:15:25
+
+Cell 6 sends blue message to Cell 2 at 11:15:25
+
+Cell 6 receives blue message from Cell 18 at 11:15:25
+
+Cell 6 turns  blue at 11:15:25
+
+Cell 6 sends blue message to Cell 17 at 11:15:25
+
+Cell 6 sends blue message to Cell 2 at 11:15:25
+
+Cell 17 receives blue message from Cell 6 at 11:15:25
+
+Cell 17 turns  blue at 11:15:25
+
+Cell 6 sends blue message to Cell 19 at 11:15:25
+
+Cell 17 sends blue message to Cell 6 at 11:15:25
+
+Cell 9 receives blue message from Cell 3 at 11:15:25
+
+Cell 9 turns  blue at 11:15:25
+
+Cell 6 sends blue message to Cell 18 at 11:15:25
+
+Cell 9 sends blue message to Cell 7 at 11:15:25
+
+Cell 18 receives blue message from Cell 6 at 11:15:25
+
+Cell 18 turns  blue at 11:15:25
+
+Cell 6 receives blue message from Cell 18 at 11:15:25
+
+Cell 6 turns  blue at 11:15:25
+
+Cell 9 sends blue message to Cell 3 at 11:15:25
+
+Cell 18 sends blue message to Cell 6 at 11:15:25
+
+Cell 6 sends blue message to Cell 17 at 11:15:25
+
+Cell 6 sends blue message to Cell 2 at 11:15:25
+
+Cell 9 receives blue message from Cell 3 at 11:15:25
+
+Cell 6 sends blue message to Cell 19 at 11:15:25
+
+Cell 6 sends blue message to Cell 18 at 11:15:25
+
+Cell 9 turns  blue at 11:15:25
+
+Cell 18 receives blue message from Cell 6 at 11:15:25
+
+Cell 18 turns  blue at 11:15:25
+
+Cell 6 receives blue message from Cell 18 at 11:15:25
+
+Cell 6 turns  blue at 11:15:25
+
+Cell 9 sends blue message to Cell 7 at 11:15:25
+
+Cell 18 sends blue message to Cell 6 at 11:15:25
+
+Cell 6 sends blue message to Cell 19 at 11:15:25
+
+Cell 6 sends blue message to Cell 18 at 11:15:25
+
+Cell 6 sends blue message to Cell 17 at 11:15:25
+
+Cell 18 receives blue message from Cell 6 at 11:15:25
+
+Cell 9 receives blue message from Cell 3 at 11:15:25
+
+Cell 18 turns  blue at 11:15:25
+
+Cell 6 sends blue message to Cell 2 at 11:15:25
+
+Cell 9 turns  blue at 11:15:25
+
+Cell 2 sends blue message to Cell 1 at 11:15:25
+
+Cell 18 sends blue message to Cell 6 at 11:15:25
+
+Cell 2 sends blue message to Cell 6 at 11:15:25
+
+Cell 3 sends blue message to Cell 9 at 11:15:25
+
+Cell 2 receives blue message from Cell 5 at 11:15:25
+
+Cell 3 sends blue message to Cell 8 at 11:15:25
+
+Cell 2 turns  blue at 11:15:25
+
+Cell 3 sends blue message to Cell 10 at 11:15:25
+
+Cell 2 sends blue message to Cell 7 at 11:15:25
+
+Cell 2 sends blue message to Cell 6 at 11:15:25
+
+Cell 2 sends blue message to Cell 1 at 11:15:25
+
+Cell 2 receives blue message from Cell 7 at 11:15:25
+
+Cell 2 turns  blue at 11:15:25
+
+Cell 2 sends blue message to Cell 1 at 11:15:25
+
+Cell 2 sends blue message to Cell 7 at 11:15:25
+
+Cell 2 sends blue message to Cell 6 at 11:15:25
+
+Cell 8 sends blue message to Cell 3 at 11:15:25
+
+Cell 2 sends blue message to Cell 5 at 11:15:25
+
+Cell 2 receives blue message from Cell 7 at 11:15:25
+
+Cell 8 receives blue message from Cell 13 at 11:15:25
+
+Cell 8 turns  blue at 11:15:25
+
+Cell 2 turns  blue at 11:15:25
+
+Cell 8 sends blue message to Cell 3 at 11:15:25
+
+Cell 2 sends blue message to Cell 7 at 11:15:25
+
+Cell 8 receives blue message from Cell 3 at 11:15:25
+
+Cell 8 turns  blue at 11:15:25
+
+Cell 2 sends blue message to Cell 5 at 11:15:25
+
+Cell 8 sends blue message to Cell 3 at 11:15:25
+
+
+ Time taken by * Dijkstra Termination Detection * Algorithm is: 8.00943
+
+pid	color	C	D	parentNode
+1	blue	0	0	1
+
+2	blue	0	0	2
+
+3	blue	0	0	3
+
+4	blue	0	0	4
+
+5	blue	0	0	5
+
+6	blue	0	0	6
+
+7	blue	0	0	7
+
+8	blue	0	0	8
+
+9	blue	0	0	9
+
+10	blue	0	0	10
+
+11	blue	0	0	11
+
+12	blue	0	0	12
+
+13	blue	0	0	13
+
+14	blue	0	0	14
+
+15	blue	0	0	15
+
+16	blue	0	0	16
+
+17	blue	0	0	17
+
+18	blue	0	0	18
+
+19	blue	0	0	19
+
+20	blue	0	0	20
+
+12 is number of messages sent to detect Termination
+
